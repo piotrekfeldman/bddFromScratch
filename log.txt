@@ -1,0 +1,115 @@
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "accuracy": 50,
+    "name": "Klosz",
+    "phone_number": "648916216",
+    "address": "pilczyce",
+    "website": "onet.pl",
+    "language": "francja",
+    "location": {
+        "lat": 50.3091283092,
+        "lng": -32.901821
+    },
+    "types": [
+        "cpsds",
+        "dsaa"
+    ]
+}
+HTTP/1.1 200 OK
+Date: Mon, 17 Feb 2020 20:57:10 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "5f7ba712863e96b763da2e32bdeb06a1",
+    "scope": "APP",
+    "reference": "ba6198ea10d17e8030f106b8cfb8276eba6198ea10d17e8030f106b8cfb8276e",
+    "id": "ba6198ea10d17e8030f106b8cfb8276e"
+}
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=5f7ba712863e96b763da2e32bdeb06a1
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=5f7ba712863e96b763da2e32bdeb06a1
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Mon, 17 Feb 2020 20:57:13 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 207
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "location": {
+        "latitude": "50.3091283092",
+        "longitude": "-32.901821"
+    },
+    "accuracy": "50",
+    "name": "Klosz",
+    "phone_number": "648916216",
+    "address": "pilczyce",
+    "types": "cpsds,dsaa",
+    "website": "onet.pl",
+    "language": "francja"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/delete/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "place_id": "5f7ba712863e96b763da2e32bdeb06a1"
+}
+HTTP/1.1 200 OK
+Date: Mon, 17 Feb 2020 20:57:19 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 15
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK"
+}

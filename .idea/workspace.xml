@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54337e04-dcca-4645-9908-3a1967008821" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XcqaWg8sA1Rrzf85q8h8G94nlL" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\piotr\bddFromScratch\src\test\java" />
+      <recent name="C:\Users\piotr\bddFromScratch\src\test" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="stepDefinitions" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\piotr\bddFromScratch\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.Utils.Test">
+    <configuration name="dataDriven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ApachePOI.dataDriven" />
+      <module name="bddFromScratch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ApachePOI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bddFromScratch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumberOptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cucumberOptions" />
+      <option name="MAIN_CLASS_NAME" value="cucumberOptions.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Utils.RequestSpec" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bddFromScratch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="resources.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="resources" />
+      <option name="MAIN_CLASS_NAME" value="resources.Utils" />
+      <option name="METHOD_NAME" value="RequestSpec" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Utils.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bddFromScratch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="resources.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="resources" />
+      <option name="MAIN_CLASS_NAME" value="resources.Utils" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Utils.Test" />
+        <item itemvalue="JUnit.Utils.RequestSpec" />
+        <item itemvalue="Application.dataDriven" />
+        <item itemvalue="JUnit.TestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54337e04-dcca-4645-9908-3a1967008821" name="Default Changelist" comment="" />
+      <created>1581355793057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581355793057</updated>
+      <workItem from="1581355796184" duration="1239000" />
+      <workItem from="1581357115770" duration="2692000" />
+      <workItem from="1581359898316" duration="6386000" />
+      <workItem from="1581442510282" duration="1863000" />
+      <workItem from="1581528017063" duration="9200000" />
+      <workItem from="1581838573633" duration="20831000" />
+      <workItem from="1581960794913" duration="4865000" />
+      <workItem from="1581966996932" duration="1324000" />
+      <workItem from="1581968371413" duration="3699000" />
+      <workItem from="1582047850012" duration="1747000" />
+      <workItem from="1582134341013" duration="8835000" />
+      <workItem from="1582217746184" duration="57000" />
+      <workItem from="1582217969810" duration="5736000" />
+      <workItem from="1582574843037" duration="645000" />
+      <workItem from="1582653511842" duration="1189000" />
+      <workItem from="1583170195342" duration="2271000" />
+      <workItem from="1583342440492" duration="52000" />
+      <workItem from="1583501957686" duration="703000" />
+      <workItem from="1583512320520" duration="1268000" />
+      <workItem from="1583860919562" duration="92000" />
+      <workItem from="1583863184530" duration="3436000" />
+      <workItem from="1583950163933" duration="725000" />
+      <workItem from="1584540663322" duration="2113000" />
+      <workItem from="1584635091511" duration="716000" />
+      <workItem from="1584638637411" duration="615000" />
+      <workItem from="1584682709606" duration="78000" />
+      <workItem from="1585590257239" duration="1719000" />
+      <workItem from="1586104718684" duration="3965000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
